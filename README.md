@@ -29,6 +29,11 @@ A **Retrieval-Augmented Generation (RAG) chatbot** that lets users upload docume
 
 > The flowchart visualizes the complete workflow from document upload to AI response.
 
+
+
+https://github.com/user-attachments/assets/e08f9d66-b361-4aca-8eae-25786d35e5fc
+
+
 ---
 
 ## ⚡ Setup and Installation
